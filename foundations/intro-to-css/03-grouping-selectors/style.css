@@ -3,12 +3,12 @@
     color: white;
 }
 
-#second{
+.second{
     background-color: yellow;
 }
 
-.both{
+.second, .first {
     font-size: 28px;
-    font-family: 'helvetica', 'Times New Roman', 'sans-serif';
+    font-family: helvetica, 'Times New Roman', sans-serif;
 
 }
